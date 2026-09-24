@@ -1,0 +1,532 @@
+{
+  "case_studies#0": {
+    "doc_id": "case_studies",
+    "title": "智策云CRM 客户案例",
+    "section_path": "客户案例",
+    "source": "data/corpus/case_studies.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-03-01",
+    "valid_until": null,
+    "content": "标题：客户案例\n> 以下案例经客户授权脱敏披露，对外讲述时不得透露客户真实名称，一律以行业 + 规模代称。"
+  },
+  "case_studies#1": {
+    "doc_id": "case_studies",
+    "title": "智策云CRM 客户案例",
+    "section_path": "客户案例 > 案例一：某汽车零部件制造企业",
+    "source": "data/corpus/case_studies.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-03-01",
+    "valid_until": null,
+    "content": "标题：客户案例 > 案例一：某汽车零部件制造企业\n客户为华东某汽车零部件制造企业，销售团队 120 人，原使用 Excel 管理商机。2025 年采购智策云CRM 专业版（ZC-PRO-2026），实施周期 10 个工作日。上线 6 个月后，商机跟进及时率从 41% 提升至 87%，回款周期由 68 天缩短至 42 天。"
+  },
+  "case_studies#2": {
+    "doc_id": "case_studies",
+    "title": "智策云CRM 客户案例",
+    "section_path": "客户案例 > 案例二：某城商行",
+    "source": "data/corpus/case_studies.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-03-01",
+    "valid_until": null,
+    "content": "标题：客户案例 > 案例二：某城商行\n客户为某城商行零售金融部，因数据出境合规要求选用旗舰版私有化部署（ZC-FLG-2026），实施周期 30 个工作日。私有化部署数据完全保留在客户内网，满足金融监管要求。上线后客户经理人均管户数由 80 户提升至 150 户。"
+  },
+  "case_studies#3": {
+    "doc_id": "case_studies",
+    "title": "智策云CRM 客户案例",
+    "section_path": "客户案例 > 案例三：某 HR SaaS 公司",
+    "source": "data/corpus/case_studies.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-03-01",
+    "valid_until": null,
+    "content": "标题：客户案例 > 案例三：某 HR SaaS 公司\n客户为某 HR SaaS 公司销售团队 45 人，采购标准版（ZC-STD-2026），3 个工作日自助开通。年费 9800 元，含核心客户管理与商机管道模块。该案例用于向小团队客户证明标准版即可快速见效。"
+  },
+  "case_studies#4": {
+    "doc_id": "case_studies",
+    "title": "智策云CRM 客户案例",
+    "section_path": "客户案例 > 案例复用口径",
+    "source": "data/corpus/case_studies.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-03-01",
+    "valid_until": null,
+    "content": "标题：客户案例 > 案例复用口径\n对外讲述案例时，须与客户实际套餐档位、实施周期、上线方式一致，不得夸大。涉及具体数字（如 41%→87%、68 天→42 天）须与案例库登记数据一致，不得臆造。"
+  },
+  "competitor_comparison#0": {
+    "doc_id": "competitor_comparison",
+    "title": "智策云CRM 竞品对比",
+    "section_path": "智策云CRM 竞品对比",
+    "source": "data/corpus/competitor_comparison.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：智策云CRM 竞品对比\n> 本篇用于销售与客户对标时统一口径。对比对象为国内主流 CRM 与国际厂商，数据基于公开渠道 2025 年第四季度调研，仅供参考。"
+  },
+  "competitor_comparison#1": {
+    "doc_id": "competitor_comparison",
+    "title": "智策云CRM 竞品对比",
+    "section_path": "智策云CRM 竞品对比 > 对标厂商",
+    "source": "data/corpus/competitor_comparison.md",
+    "chunk_type": "table",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：智策云CRM 竞品对比 > 对标厂商\n| 厂商 | 主打产品 | 部署形态 | 标准起步价（年） | 适用客户 |\n| --- | --- | --- | --- | --- |\n| 智策云 | 智策云CRM ZC-STD-2026 | SaaS + 私有化 | 9800 元 | 50 人以下销售团队 |\n| 销售易 | 销售易专业版 | SaaS | 19800 元 | 中型企业 |\n| 纷享销客 | 纷享销客专业版 | SaaS | 16800 元 | 中小企业 |\n| Salesforce | Sales Cloud Enterprise | 公有云（海外） | 约 12000 美元 | 大型跨国企业 |"
+  },
+  "competitor_comparison#2": {
+    "doc_id": "competitor_comparison",
+    "title": "智策云CRM 竞品对比",
+    "section_path": "智策云CRM 竞品对比 > 功能差异",
+    "source": "data/corpus/competitor_comparison.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：智策云CRM 竞品对比 > 功能差异\n智策云CRM 的差异化优势集中在三点：本土化合同与回款管理（直连国内电子发票）、私有化部署可保留数据在内网、阶梯折扣政策透明。Salesforce 功能最全但数据出境合规成本高，不适合对数据出境敏感的金融与政企客户。"
+  },
+  "competitor_comparison#3": {
+    "doc_id": "competitor_comparison",
+    "title": "智策云CRM 竞品对比",
+    "section_path": "智策云CRM 竞品对比 > 报价口径",
+    "source": "data/corpus/competitor_comparison.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：智策云CRM 竞品对比 > 报价口径\n对外报对比价时，一律以智策云 ZC-PRO-2026 专业版 19800 元/年为锚点，强调含 30 个账号、6% 增值税专用发票、阶梯折扣可叠加续费 95 折。不得在客户面前贬低竞品，只讲差异。"
+  },
+  "contract_sla#0": {
+    "doc_id": "contract_sla",
+    "title": "智策云CRM 合同条款与服务等级（SLA）",
+    "section_path": "合同条款与服务等级（SLA） > 付款节奏",
+    "source": "data/corpus/contract_sla.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：合同条款与服务等级（SLA） > 付款节奏\n标准合同付款分三笔，与套餐档位无关：\n\n- 签约后 5 个工作日内付 50% 首付款；\n- 系统上线验收通过后 5 个工作日内付 30% 上线款；\n- 上线后 90 个工作日内付 20% 尾款。\n\n特价或私有化大项目可另行约定，但首付款比例不得低于 30%。"
+  },
+  "contract_sla#1": {
+    "doc_id": "contract_sla",
+    "title": "智策云CRM 合同条款与服务等级（SLA）",
+    "section_path": "合同条款与服务等级（SLA） > 服务可用性",
+    "source": "data/corpus/contract_sla.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：合同条款与服务等级（SLA） > 服务可用性\nSaaS 版承诺月度可用性不低于 99.9%，以监控平台记录为准。单月可用性每低于承诺 0.1 个百分点，按年度订阅价的 5% 折算服务延期补偿，不退现金。"
+  },
+  "contract_sla#2": {
+    "doc_id": "contract_sla",
+    "title": "智策云CRM 合同条款与服务等级（SLA）",
+    "section_path": "合同条款与服务等级（SLA） > 故障响应等级",
+    "source": "data/corpus/contract_sla.md",
+    "chunk_type": "table",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：合同条款与服务等级（SLA） > 故障响应等级\n| 等级 | 定义 | 响应时效 | 恢复时效 |\n| --- | --- | --- | --- |\n| P1 | 核心功能不可用 | ≤30 分钟 | ≤4 小时 |\n| P2 | 主要功能受损 | ≤2 小时 | ≤8 小时 |\n| P3 | 次要功能异常 | ≤8 小时 | ≤1 个工作日 |"
+  },
+  "contract_sla#3": {
+    "doc_id": "contract_sla",
+    "title": "智策云CRM 合同条款与服务等级（SLA）",
+    "section_path": "合同条款与服务等级（SLA） > 售后等级与套餐绑定",
+    "source": "data/corpus/contract_sla.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：合同条款与服务等级（SLA） > 售后等级与套餐绑定\n售后响应等级与套餐档位绑定：标准版仅享 P2/P3，专业版含 P1 工作时间响应，旗舰版含 P1 全天候响应与专属集群。"
+  },
+  "contract_sla#4": {
+    "doc_id": "contract_sla",
+    "title": "智策云CRM 合同条款与服务等级（SLA）",
+    "section_path": "合同条款与服务等级（SLA） > 违约与终止",
+    "source": "data/corpus/contract_sla.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：合同条款与服务等级（SLA） > 违约与终止\n客户连续 3 个工作日 P1 故障未恢复，可主张服务延期补偿；单方提前终止合同按已使用月份折算，不退预付款。"
+  },
+  "implementation_guide#0": {
+    "doc_id": "implementation_guide",
+    "title": "智策云CRM 实施指南",
+    "section_path": "实施指南 > 套餐与实施周期",
+    "source": "data/corpus/implementation_guide.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-02-01",
+    "valid_until": null,
+    "content": "标题：实施指南 > 套餐与实施周期\n不同套餐实施周期不同，签约前须向客户对齐预期："
+  },
+  "implementation_guide#1": {
+    "doc_id": "implementation_guide",
+    "title": "智策云CRM 实施指南",
+    "section_path": "实施指南 > 套餐与实施周期",
+    "source": "data/corpus/implementation_guide.md",
+    "chunk_type": "table",
+    "valid_from": "2026-02-01",
+    "valid_until": null,
+    "content": "标题：实施指南 > 套餐与实施周期\n| 套餐 | SKU 编号 | 实施周期 | 上线方式 |\n| --- | --- | --- | --- |\n| 标准版 | ZC-STD-2026 | 3 个工作日 | 自助开通 |\n| 专业版 | ZC-PRO-2026 | 10 个工作日 | 标准实施 |\n| 旗舰版 | ZC-FLG-2026 | 30 个工作日 | 私有化部署 |"
+  },
+  "implementation_guide#2": {
+    "doc_id": "implementation_guide",
+    "title": "智策云CRM 实施指南",
+    "section_path": "实施指南 > 实施角色",
+    "source": "data/corpus/implementation_guide.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-02-01",
+    "valid_until": null,
+    "content": "标题：实施指南 > 实施角色\n专业版及以上套餐配备实施团队，标准角色三人：\n\n- 客户成功经理（CSM）：项目总负责、对客沟通、验收确认；\n- 实施顾问：字段映射、商机阶段配置、报表搭建；\n- 技术架构师：数据迁移、接口集成、安全配置（仅旗舰版标配）。\n\n标准版不配备专属实施团队，由 CSM 远程协助开通。"
+  },
+  "implementation_guide#3": {
+    "doc_id": "implementation_guide",
+    "title": "智策云CRM 实施指南",
+    "section_path": "实施指南 > 数据迁移",
+    "source": "data/corpus/implementation_guide.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-02-01",
+    "valid_until": null,
+    "content": "标题：实施指南 > 数据迁移\n历史 CRM 数据迁移按两阶段进行：先做字段映射确认（1 个工作日），再执行全量导入与校验。专业版含 1 次免费迁移，超出按 2000 元/次计费；旗舰版含 3 次免费迁移。"
+  },
+  "implementation_guide#4": {
+    "doc_id": "implementation_guide",
+    "title": "智策云CRM 实施指南",
+    "section_path": "实施指南 > 验收标准",
+    "source": "data/corpus/implementation_guide.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-02-01",
+    "valid_until": null,
+    "content": "标题：实施指南 > 验收标准\n验收以《实施验收清单》为准，含：账号开通、核心模块可登录、商机管道阶段配置、首批数据导入完成。验收通过即触发 30% 上线款，见《合同条款与 SLA》付款节奏。"
+  },
+  "partner_channel#0": {
+    "doc_id": "partner_channel",
+    "title": "智策云CRM 渠道代理政策（2026 现行版）",
+    "section_path": "渠道代理政策（2026 现行版） > 代理商分级",
+    "source": "data/corpus/partner_channel.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：渠道代理政策（2026 现行版） > 代理商分级\n代理商按自然年累计智策云CRM 到账销售额分级，等级决定返点比例与支持资源："
+  },
+  "partner_channel#1": {
+    "doc_id": "partner_channel",
+    "title": "智策云CRM 渠道代理政策（2026 现行版）",
+    "section_path": "渠道代理政策（2026 现行版） > 代理商分级",
+    "source": "data/corpus/partner_channel.md",
+    "chunk_type": "table",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：渠道代理政策（2026 现行版） > 代理商分级\n| 等级 | 年到账销售额门槛 | 返点比例 | 支持资源 |\n| --- | --- | --- | --- |\n| 银牌 | 20 万元（含）以上 | 8% | 渠道经理 1 名 |\n| 金牌 | 60 万元（含）以上 | 12% | 渠道经理 + 售前 1 名 |\n| 白金 | 120 万元（含）以上 | 15% | 专属团队 3 人 |"
+  },
+  "partner_channel#2": {
+    "doc_id": "partner_channel",
+    "title": "智策云CRM 渠道代理政策（2026 现行版）",
+    "section_path": "渠道代理政策（2026 现行版） > 报备与项目保护",
+    "source": "data/corpus/partner_channel.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：渠道代理政策（2026 现行版） > 报备与项目保护\n代理商须在客户首次接触后 5 个工作日内提交项目报备，报备成功后享 30 天项目保护期。保护期内其他代理商不得介入同一客户，违者返点清零。"
+  },
+  "partner_channel#3": {
+    "doc_id": "partner_channel",
+    "title": "智策云CRM 渠道代理政策（2026 现行版）",
+    "section_path": "渠道代理政策（2026 现行版） > 返点结算",
+    "source": "data/corpus/partner_channel.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：渠道代理政策（2026 现行版） > 返点结算\n返点按自然年累计到账销售额结算，次年第一季度一次性发放，可抵扣下年代理采购款，不退现金。返点计算以智策云 ZC-STD-2026、ZC-PRO-2026、ZC-FLG-2026 三档套餐标准报价为基数，特价审批单不参与返点。"
+  },
+  "partner_channel#4": {
+    "doc_id": "partner_channel",
+    "title": "智策云CRM 渠道代理政策（2026 现行版）",
+    "section_path": "渠道代理政策（2026 现行版） > 价格底线",
+    "source": "data/corpus/partner_channel.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：渠道代理政策（2026 现行版） > 价格底线\n代理商对外报价不得低于智策云标准报价的 8 折，低于 8 折须走特价审批流程（见《报价与折扣政策》）。代理商口头承诺折扣无效，以系统审批结果为准。"
+  },
+  "partner_policy_2024_deprecated#0": {
+    "doc_id": "partner_policy_2024_deprecated",
+    "title": "智策云CRM 渠道代理政策（2024 已废止）",
+    "section_path": "渠道代理政策（2024 已废止）",
+    "source": "data/corpus/partner_policy_2024_deprecated.md",
+    "chunk_type": "markdown",
+    "valid_from": "2024-01-01",
+    "valid_until": "2024-12-31",
+    "content": "标题：渠道代理政策（2024 已废止）\n> 本政策已于 2024-12-31 废止，自 2025-01-01 起执行新版政策，并于 2026-01-01 再次更新为现行版。本文件仅作历史归档，不得用于新签代理合同。"
+  },
+  "partner_policy_2024_deprecated#1": {
+    "doc_id": "partner_policy_2024_deprecated",
+    "title": "智策云CRM 渠道代理政策（2024 已废止）",
+    "section_path": "渠道代理政策（2024 已废止） > 2024 年代理商分级",
+    "source": "data/corpus/partner_policy_2024_deprecated.md",
+    "chunk_type": "table",
+    "valid_from": "2024-01-01",
+    "valid_until": "2024-12-31",
+    "content": "标题：渠道代理政策（2024 已废止） > 2024 年代理商分级\n| 等级 | 年到账销售额门槛 | 返点比例 |\n| --- | --- | --- |\n| 银牌 | 10 万元（含）以上 | 6% |\n| 金牌 | 30 万元（含）以上 | 10% |"
+  },
+  "partner_policy_2024_deprecated#2": {
+    "doc_id": "partner_policy_2024_deprecated",
+    "title": "智策云CRM 渠道代理政策（2024 已废止）",
+    "section_path": "渠道代理政策（2024 已废止） > 2024 年报备口径（已失效）",
+    "source": "data/corpus/partner_policy_2024_deprecated.md",
+    "chunk_type": "markdown",
+    "valid_from": "2024-01-01",
+    "valid_until": "2024-12-31",
+    "content": "标题：渠道代理政策（2024 已废止） > 2024 年报备口径（已失效）\n2024 年项目报备保护期为 15 天，低于现行版的 30 天。该口径已被 2026 年版渠道代理政策取代。"
+  },
+  "partner_policy_2024_deprecated#3": {
+    "doc_id": "partner_policy_2024_deprecated",
+    "title": "智策云CRM 渠道代理政策（2024 已废止）",
+    "section_path": "渠道代理政策（2024 已废止） > 2024 年价格底线（已失效）",
+    "source": "data/corpus/partner_policy_2024_deprecated.md",
+    "chunk_type": "markdown",
+    "valid_from": "2024-01-01",
+    "valid_until": "2024-12-31",
+    "content": "标题：渠道代理政策（2024 已废止） > 2024 年价格底线（已失效）\n2024 年代理商对外报价不得低于标准报价的 85 折，低于现行版的 8 折底线要求。"
+  },
+  "pricing_2025_deprecated#0": {
+    "doc_id": "pricing_2025_deprecated",
+    "title": "智策云CRM 报价政策（2025 已废止）",
+    "section_path": "报价政策（2025 已废止）",
+    "source": "data/corpus/pricing_2025_deprecated.md",
+    "chunk_type": "markdown",
+    "valid_from": "2025-01-01",
+    "valid_until": "2025-12-31",
+    "content": "标题：报价政策（2025 已废止）\n> 本政策已于 2025-12-31 废止，自 2026-01-01 起执行《报价与折扣政策（2026 现行版）》。本文件仅作历史归档，不得用于新签合同报价。"
+  },
+  "pricing_2025_deprecated#1": {
+    "doc_id": "pricing_2025_deprecated",
+    "title": "智策云CRM 报价政策（2025 已废止）",
+    "section_path": "报价政策（2025 已废止） > 2025 年标准报价",
+    "source": "data/corpus/pricing_2025_deprecated.md",
+    "chunk_type": "table",
+    "valid_from": "2025-01-01",
+    "valid_until": "2025-12-31",
+    "content": "标题：报价政策（2025 已废止） > 2025 年标准报价\n| SKU 编号 | 套餐 | 年费（元/年） |\n| --- | --- | --- |\n| ZC-STD-2025 | 标准版 | 12800 |\n| ZC-PRO-2025 | 专业版 | 25800 |"
+  },
+  "pricing_2025_deprecated#2": {
+    "doc_id": "pricing_2025_deprecated",
+    "title": "智策云CRM 报价政策（2025 已废止）",
+    "section_path": "报价政策（2025 已废止） > 2025 年折扣口径（已失效）",
+    "source": "data/corpus/pricing_2025_deprecated.md",
+    "chunk_type": "markdown",
+    "valid_from": "2025-01-01",
+    "valid_until": "2025-12-31",
+    "content": "标题：报价政策（2025 已废止） > 2025 年折扣口径（已失效）\n2025 年专业版统一按 95 折销售，合同金额满 3 万即可申请 9 折。该口径已被 2026 年阶梯折扣政策取代。"
+  },
+  "pricing_2026#0": {
+    "doc_id": "pricing_2026",
+    "title": "智策云CRM 报价与折扣政策（2026 现行版）",
+    "section_path": "报价与折扣政策（2026 现行版） > 标准报价（年度订阅/包年）",
+    "source": "data/corpus/pricing_2026.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：报价与折扣政策（2026 现行版） > 标准报价（年度订阅/包年）\n以下价格为年度订阅价（客户口语中也称包年价、年费），按账号数分档："
+  },
+  "pricing_2026#1": {
+    "doc_id": "pricing_2026",
+    "title": "智策云CRM 报价与折扣政策（2026 现行版）",
+    "section_path": "报价与折扣政策（2026 现行版） > 标准报价（年度订阅/包年）",
+    "source": "data/corpus/pricing_2026.md",
+    "chunk_type": "table",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：报价与折扣政策（2026 现行版） > 标准报价（年度订阅/包年）\n| SKU 编号 | 套餐 | 年度订阅价（元/年） |\n| --- | --- | --- |\n| ZC-STD-2026 | 标准版 | 9800 |\n| ZC-PRO-2026 | 专业版 | 19800 |\n| ZC-FLG-2026 | 旗舰版 | 39800 |"
+  },
+  "pricing_2026#2": {
+    "doc_id": "pricing_2026",
+    "title": "智策云CRM 报价与折扣政策（2026 现行版）",
+    "section_path": "报价与折扣政策（2026 现行版） > 阶梯折扣",
+    "source": "data/corpus/pricing_2026.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：报价与折扣政策（2026 现行版） > 阶梯折扣\n按年度订阅合同金额给予阶梯折扣，折扣在标准报价基础上计算：\n\n- 合同金额 2 万以下：无折扣；\n- 合同金额 2 万（含）至 5 万：9 折；\n- 合同金额 5 万（含）至 10 万：85 折；\n- 合同金额 10 万（含）以上：8 折，须销售总监审批。"
+  },
+  "pricing_2026#3": {
+    "doc_id": "pricing_2026",
+    "title": "智策云CRM 报价与折扣政策（2026 现行版）",
+    "section_path": "报价与折扣政策（2026 现行版） > 特价审批",
+    "source": "data/corpus/pricing_2026.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：报价与折扣政策（2026 现行版） > 特价审批\n低于 8 折的特价申请一律走特价审批流程，须提交客户竞品报价截图与商务测算，由商务负责人终审。口头承诺折扣无效，以系统审批结果为准。"
+  },
+  "pricing_2026#4": {
+    "doc_id": "pricing_2026",
+    "title": "智策云CRM 报价与折扣政策（2026 现行版）",
+    "section_path": "报价与折扣政策（2026 现行版） > 续费与增购",
+    "source": "data/corpus/pricing_2026.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：报价与折扣政策（2026 现行版） > 续费与增购\n老客户续费在到期前 60 天内启动；续费同档位享 95 折。年中增购账号按剩余月份折算，不另享阶梯折扣。"
+  },
+  "product_catalog#0": {
+    "doc_id": "product_catalog",
+    "title": "智策云CRM 产品手册",
+    "section_path": "智策云CRM 产品手册 > 产品定位",
+    "source": "data/corpus/product_catalog.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：智策云CRM 产品手册 > 产品定位\n智策云CRM 是面向 B2B 企业的客户关系管理系统，包含销售自动化、客户管理、商机管道、合同与回款管理四大模块，支持 SaaS 标准版与私有化部署两种交付形态。"
+  },
+  "product_catalog#1": {
+    "doc_id": "product_catalog",
+    "title": "智策云CRM 产品手册",
+    "section_path": "智策云CRM 产品手册 > 套餐与 SKU",
+    "source": "data/corpus/product_catalog.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：智策云CRM 产品手册 > 套餐与 SKU\n产品按套餐售卖，每个套餐有唯一 SKU 编号，报价与折扣政策均通过 SKU 引用："
+  },
+  "product_catalog#2": {
+    "doc_id": "product_catalog",
+    "title": "智策云CRM 产品手册",
+    "section_path": "智策云CRM 产品手册 > 套餐与 SKU",
+    "source": "data/corpus/product_catalog.md",
+    "chunk_type": "table",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：智策云CRM 产品手册 > 套餐与 SKU\n| 套餐 | SKU 编号 | 适用客户 | 核心模块 |\n| --- | --- | --- | --- |\n| 标准版 | ZC-STD-2026 | 50 人以下销售团队 | 客户管理、商机管道 |\n| 专业版 | ZC-PRO-2026 | 50-300 人成长型企业 | 全部四大模块、报表中心 |\n| 旗舰版 | ZC-FLG-2026 | 300 人以上集团客户 | 全部模块、开放 API、专属集群 |"
+  },
+  "product_catalog#3": {
+    "doc_id": "product_catalog",
+    "title": "智策云CRM 产品手册",
+    "section_path": "智策云CRM 产品手册 > 模块清单 > 销售自动化",
+    "source": "data/corpus/product_catalog.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：智策云CRM 产品手册 > 模块清单 > 销售自动化\n支持线索自动分配、跟进提醒、邮件群发与行为打分，帮助销售把时间花在高意向客户上。"
+  },
+  "product_catalog#4": {
+    "doc_id": "product_catalog",
+    "title": "智策云CRM 产品手册",
+    "section_path": "智策云CRM 产品手册 > 模块清单 > 客户管理与商机管道",
+    "source": "data/corpus/product_catalog.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：智策云CRM 产品手册 > 模块清单 > 客户管理与商机管道\n客户 360 视图统一沉淀联系人、沟通记录与合同历史；商机管道支持自定义阶段与赢单率预测。"
+  },
+  "product_catalog#5": {
+    "doc_id": "product_catalog",
+    "title": "智策云CRM 产品手册",
+    "section_path": "智策云CRM 产品手册 > 模块清单 > 合同与回款",
+    "source": "data/corpus/product_catalog.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：智策云CRM 产品手册 > 模块清单 > 合同与回款\n合同审批流、回款计划、发票申请线上化；与商机管道联动，签约后自动生成回款节点。"
+  },
+  "sales_faq#0": {
+    "doc_id": "sales_faq",
+    "title": "销售常见问题 FAQ",
+    "section_path": "销售常见问题 FAQ > 价格与采购 > 客户问：能不能按月付费？",
+    "source": "data/corpus/sales_faq.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-03-01",
+    "valid_until": null,
+    "content": "标题：销售常见问题 FAQ > 价格与采购 > 客户问：能不能按月付费？\n标准版与专业版仅支持年度订阅（包年）；旗舰版私有化项目可另行约定付款节奏，但 SaaS 部分仍按年计费。"
+  },
+  "sales_faq#1": {
+    "doc_id": "sales_faq",
+    "title": "销售常见问题 FAQ",
+    "section_path": "销售常见问题 FAQ > 价格与采购 > 客户问：专业版包年包含多少账号？",
+    "source": "data/corpus/sales_faq.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-03-01",
+    "valid_until": null,
+    "content": "标题：销售常见问题 FAQ > 价格与采购 > 客户问：专业版包年包含多少账号？\nZC-PRO-2026 年度订阅价 19800 元包含 30 个账号，超出账号按 600 元/账号/年增购。"
+  },
+  "sales_faq#2": {
+    "doc_id": "sales_faq",
+    "title": "销售常见问题 FAQ",
+    "section_path": "销售常见问题 FAQ > 价格与采购 > 客户问：报价含税吗？",
+    "source": "data/corpus/sales_faq.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-03-01",
+    "valid_until": null,
+    "content": "标题：销售常见问题 FAQ > 价格与采购 > 客户问：报价含税吗？\n标准报价均为不含税价，开具增值税专用发票时按 6% 计取税额。"
+  },
+  "sales_faq#3": {
+    "doc_id": "sales_faq",
+    "title": "销售常见问题 FAQ",
+    "section_path": "销售常见问题 FAQ > 实施与售后 > 客户问：签约后多久能上线？",
+    "source": "data/corpus/sales_faq.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-03-01",
+    "valid_until": null,
+    "content": "标题：销售常见问题 FAQ > 实施与售后 > 客户问：签约后多久能上线？\nSaaS 标准版 3 个工作日内开通；专业版标准实施周期为 10 个工作日；旗舰版私有化部署实施周期 30 个工作日。"
+  },
+  "sales_faq#4": {
+    "doc_id": "sales_faq",
+    "title": "销售常见问题 FAQ",
+    "section_path": "销售常见问题 FAQ > 实施与售后 > 客户问：数据安全怎么保障？",
+    "source": "data/corpus/sales_faq.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-03-01",
+    "valid_until": null,
+    "content": "标题：销售常见问题 FAQ > 实施与售后 > 客户问：数据安全怎么保障？\nSaaS 版数据存储于国内云厂商，传输与落盘均加密；旗舰版支持私有化部署，数据完全保留在客户内网。"
+  },
+  "sales_faq#5": {
+    "doc_id": "sales_faq",
+    "title": "销售常见问题 FAQ",
+    "section_path": "销售常见问题 FAQ > 实施与售后 > 客户问：支持退款吗？",
+    "source": "data/corpus/sales_faq.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-03-01",
+    "valid_until": null,
+    "content": "标题：销售常见问题 FAQ > 实施与售后 > 客户问：支持退款吗？\n开通后 7 个工作日内、未使用核心模块导入数据的客户，可申请无理由退款；超过 7 个工作日按已使用月份折算。"
+  },
+  "security_compliance#0": {
+    "doc_id": "security_compliance",
+    "title": "智策云CRM 安全与合规",
+    "section_path": "安全与合规 > 数据加密",
+    "source": "data/corpus/security_compliance.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：安全与合规 > 数据加密\nSaaS 版数据传输采用 TLS 1.3 加密，落盘采用 AES-256 加密；密钥由国内云厂商 KMS 托管，每 90 天轮换。旗舰版私有化部署支持客户自带密钥（BYOK）。"
+  },
+  "security_compliance#1": {
+    "doc_id": "security_compliance",
+    "title": "智策云CRM 安全与合规",
+    "section_path": "安全与合规 > 合规认证",
+    "source": "data/corpus/security_compliance.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：安全与合规 > 合规认证\n智策云CRM 已取得以下认证：\n\n- 等保三级（信息系统安全等级保护）；\n- SOC 2 Type II；\n- ISO 27001 信息安全管理体系。\n\n金融与政企客户采购时，可向销售申请合规报告复印件，须签署保密协议。"
+  },
+  "security_compliance#2": {
+    "doc_id": "security_compliance",
+    "title": "智策云CRM 安全与合规",
+    "section_path": "安全与合规 > 数据出境",
+    "source": "data/corpus/security_compliance.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：安全与合规 > 数据出境\nSaaS 版数据存储于国内云厂商，不出境；客户数据不得由我方用于模型训练。旗舰版私有化部署数据完全保留在客户内网，满足数据出境敏感行业要求。"
+  },
+  "security_compliance#3": {
+    "doc_id": "security_compliance",
+    "title": "智策云CRM 安全与合规",
+    "section_path": "安全与合规 > 访问控制",
+    "source": "data/corpus/security_compliance.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：安全与合规 > 访问控制\n内部员工访问生产数据须走工单审批，访问行为全量审计留存 180 天。客户管理员可配置账号最小权限与字段级可见性。"
+  },
+  "security_compliance#4": {
+    "doc_id": "security_compliance",
+    "title": "智策云CRM 安全与合规",
+    "section_path": "安全与合规 > 漏洞响应",
+    "source": "data/corpus/security_compliance.md",
+    "chunk_type": "markdown",
+    "valid_from": "2026-01-01",
+    "valid_until": null,
+    "content": "标题：安全与合规 > 漏洞响应\n安全漏洞响应走 P1 渠道，发现后 24 小时内确认、7 个工作日内修复高危漏洞，详见《合同条款与 SLA》故障响应等级。"
+  }
+}
