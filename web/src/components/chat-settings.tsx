@@ -121,6 +121,24 @@ export function ChatSettingsPanel({
           </SelectContent>
         </Select>
       </Field>
+
+      <Field label="数据密级">
+        <Select
+          value={settings.acl}
+          onValueChange={(v) =>
+            v && onChange({ ...settings, acl: v })
+          }
+          disabled={disabled}
+        >
+          <SelectTrigger size="sm" className="w-44">
+            <SelectValue />
+          </SelectTrigger>
+          <SelectContent>
+            <SelectItem value="public">公开</SelectItem>
+            <SelectItem value="internal">内部</SelectItem>
+          </SelectContent>
+        </Select>
+      </Field>
     </div>
   );
 }

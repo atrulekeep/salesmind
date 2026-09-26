@@ -8,6 +8,7 @@ export interface ChatSettings {
   use_rerank: boolean;
   rewrite_mode: RewriteMode;
   topk: number;
+  acl: string;
 }
 
 export const DEFAULT_SETTINGS: ChatSettings = {
@@ -15,6 +16,7 @@ export const DEFAULT_SETTINGS: ChatSettings = {
   use_rerank: true,
   rewrite_mode: "none",
   topk: 5,
+  acl: "public",
 };
 
 /** retrieved 事件 items[] 元素；[n] 角标编号 n 对应 items[n-1]。 */

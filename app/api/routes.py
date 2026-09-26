@@ -18,6 +18,7 @@ class RetrieveRequest(BaseModel):
     use_rerank: bool = True
     rewrite_mode: Literal["none", "multi", "hyde", "both"] = "none"
     topk: int = Field(default=5, ge=1, le=20)
+    acl: str = "public"
 
 
 class ChatRequest(RetrieveRequest):
@@ -69,7 +70,7 @@ async def health(request: Request):
 async def retrieve(req: RetrieveRequest, request: Request):
     result = await request.app.state.retriever.retrieve(
         req.question, mode=req.mode, use_rerank=req.use_rerank,
-        rewrite_mode=req.rewrite_mode, topk=req.topk,
+        rewrite_mode=req.rewrite_mode, topk=req.topk, acl=req.acl,
     )
     return {
         "items": [_item_dict(it) for it in result.items],
@@ -100,7 +101,7 @@ async def chat_stream(req: ChatRequest, request: Request):
         yield sse("status", {"stage": "retrieving"})
         result = await state.retriever.retrieve(
             req.question, mode=req.mode, use_rerank=req.use_rerank,
-            rewrite_mode=req.rewrite_mode, topk=req.topk,
+            rewrite_mode=req.rewrite_mode, topk=req.topk, acl=req.acl,
         )
         yield sse("retrieved", {
             "items": [_item_dict(it) for it in result.items],

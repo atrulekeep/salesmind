@@ -15,6 +15,7 @@ dependencies = [
     "uvicorn[standard]>=0.30",
     "sse-starlette>=2.1",
     "python-multipart>=0.0.9",
+    "mcp[cli]>=1.0,<2",
 ]
 
 [project.optional-dependencies]

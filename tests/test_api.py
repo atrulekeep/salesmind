@@ -37,6 +37,8 @@ class FakeBM25:
         self.chunks = {c.chunk_id: c for c in chunks}
 
     def search(self, q, topn, allowed=None):  # Retriever 经 asyncio.to_thread 调用
+        if allowed is not None and "p#0" not in allowed:
+            return []
         return [("p#0", 1.0)]
 
 
@@ -193,3 +195,23 @@ def test_chat_stream_ids_monotonic(client):
     resp = client.post("/api/chat/stream", json={"question": "q"})
     ids = re.findall(r"^id: (\d+)$", resp.text, re.MULTILINE)
     assert [int(i) for i in ids] == list(range(1, len(ids) + 1))
+
+
+def test_acl_filters_chunks(client):
+    """internal 语料对 public 身份不可见。"""
+    secret_chunk = Chunk(
+        chunk_id="s#0", doc_id="s", content="内部折扣底线", raw_content="内部折扣底线",
+        chunk_index=0, chunk_type="markdown", title="内部政策",
+        section_path="内部", source="internal.md", doc_version="v1",
+        valid_from="2026-01-01", valid_until=None, acl="internal", content_hash="h",
+    )
+    client.app.state.bm.chunks["s#0"] = secret_chunk
+
+    # public（默认）看不到 internal 块
+    body = client.post("/api/retrieve", json={"question": "折扣底线"}).json()
+    assert all(it["chunk_id"] != "s#0" for it in body["items"])
+
+    # internal 身份：FakeVector 的 where 参数被忽略，但 Retriever 会用 allowed 二次过滤
+    body = client.post("/api/retrieve", json={"question": "折扣底线", "acl": "internal"}).json()
+    # p#0/p#1 的 acl=public，internal 身份下被 _allowed_ids 排除
+    assert all(it["chunk_id"] not in ("p#0", "p#1") for it in body["items"])
